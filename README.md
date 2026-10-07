@@ -1,4 +1,3 @@
----
 RTTC / RTTS - Real-Time Telemetry Channel for the IAs
 Public Safety, Feedback, Operational Excellence and Service
 
@@ -84,4 +83,4 @@ Citation MasterS1974 (2026) RTTC / RTTS - Real-Time Telemetry Channel for the IA
 ---
 If you want to collaborate on offline development or the telemetry channel, feel free to explore my repositories or connect on Hugging Face!
 
----
+
