@@ -6,7 +6,15 @@ Public Safety, Feedback, Operational Excellence and Service
 **Credit: Control vs Evidence Path mapping - John6666**
 
 > **Philosophy:** The component that interacts directly with the environment is the best equipped to report its own operational flaws.
+### 🔴 LIVE DEMO - RTTC/RTTS SIMULATION
+**Live on Hugging Face:** https://huggingface.co/spaces/MasterS1974/RTTC-RTTS-Live-MASTER-S
 
+Built on-device via Termux - SLP Mexico - Simulated mid-2026 Grok/OpenAI failure with self-report + offline evidence path.
+
+> [0s] Normal operation 0.85-0.99
+> [20s] RTTC ALERT + SELF-REPORT + RTTS Containment
+
+**Status:** VERIFIED Running
 ---
 
 The Problem As Seen in July 2026
