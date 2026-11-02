@@ -1,3 +1,6 @@
+[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/MasterS1974/RTTC-RTTS-Live-MASTER-S) [![Status](https://img.shields.io/badge/Status-VERIFIED_Running-green)] [![Built With](https://img.shields.io/badge/Built%20With-Termux%20%7C%20SLP%20Mexico-blue)]
+
+
 RTTC / RTTS - Real-Time Telemetry Channel for the IAs
 Public Safety, Feedback, Operational Excellence and Service
 
